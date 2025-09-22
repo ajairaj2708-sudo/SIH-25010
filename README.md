@@ -6,7 +6,6 @@
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
 A majority of small and marginal farmers in India rely on traditional knowledge, local shopkeepers, or guesswork for crop selection, pest control, and fertilizer use. They lack access to personalized, real-time advisory services that account for soil type, weather conditions, and crop history. This often leads to poor yield, excessive input costs, and environmental degradation due to overuse of chemicals. Language barriers, low digital literacy, and absence of localized tools further limit their access to modern agri-tech resources.Here are some images that visually represent the challenges described in your problem statement — including traditional farming practices, lack of access to agri-tech tools, and digital illiteracy among small and marginal farmers in India.
-<img width="1200" height="628" alt="agri" src="https://github.com/user-attachments/assets/3d0c378f-1f4a-4e4f-bbbb-54aa6cb1ca41" />
 
 Impact / Why this problem needs to be solved
 
@@ -62,6 +61,8 @@ Agriculture, FoodTech & Rural Development
 - Direct access to verified input suppliers and buyers.
 - Pilot in High-Need Districts: Start with regions like Vidarbha, Bundelkhand, or delta areas of Tamil Nadu.
 - Partnerships: Collaborate with agri universities, Krishi Vigyan Kendras (KVKs), and NGOs.
+- <img width="1200" height="628" alt="agri" src="https://github.com/user-attachments/assets/efc1a2f4-6490-4fb6-b462-cab618b4a1dc" />
+
   
 ## Technical Approach. Data Collection & Integration Layer
 - Soil Data: Integrate with government soil health databases and enable farmers to upload soil test reports.
